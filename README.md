@@ -19,6 +19,5 @@
 </br>
 </br>
 
-<center>
 ![S-dimaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-dimaria&show_icons=true&theme=github_dark)
-</center>
+
