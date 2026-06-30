@@ -1,6 +1,6 @@
 
 <a href="https://linkedin.com/in/s-dimaria">
-  <img align="left" alt="Salvatore Di Maria" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+  <img align="left" alt="Salvatore Di Maria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 </br>
