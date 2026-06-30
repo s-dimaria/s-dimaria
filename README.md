@@ -8,7 +8,7 @@
 <div>
   <h2>⚡️ A Few Quick Skills</h2>
   <ul>
-    <li>🔭 I'm searching working</li>
+    <li>🔭 I'm working for <a href="https://www.aizoongroup.com/it/it/home-page">AizoOn</a></li>
     <li>🧐 Studying anything of Information Tecnology.</li>
     <li>📝 I am often active on <a href="www.linkedin.com/in/s-dimaria">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, Frontend, Databases or Web App</strong>.</li>
